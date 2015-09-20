@@ -1,0 +1,8 @@
+I do not have the original hyperlink for the area anymore, but it closely the following: https://www.openstreetmap.org/export#map=9/50.3481/7.0642
+
+The borders of the area are the following:
+Latitude area: [49.8674728, 50.8235157]
+Longitude area: [6.1570315, 7.9722117]
+
+The area is chosen is around the town Mayen with several villages around. The whole area is in Germany, in the state Rhineland-Palatinate. This is the area where I grew up and went to different schools. This is the reason why I chose that area. It is part of the Eifel, a region between the German rivers Rhine and Mosel and reaching to Belgium in the west and Aachen in the north.
+I was curious how complete this remote area is within OSM and therefore I chose it for an investigation.
